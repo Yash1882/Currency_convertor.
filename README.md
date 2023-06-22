@@ -1,4 +1,4 @@
-# Exchange-Currency-Calculator
+# Currency_convertor.
  
 ## Калькулятор валют
 
